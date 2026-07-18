@@ -13,14 +13,14 @@
 
 ---
 
-##  About me!
+##  About me !!!
 
 -  Current learning：`C `
 -  Goal：Practise coding. Try to make my first open sourse programme
 -  GitHub：[@lele64257-creator](https://github.com/lele64257-creator)
 -  Introduction:Practise makes perfect
 
-##  Tools
+##  Technologies & Tools
 
 <!-- 删除不需要的徽章，或在 https://shields.io/ 添加你自己的技术栈。 -->
 
