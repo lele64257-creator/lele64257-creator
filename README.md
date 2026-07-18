@@ -2,7 +2,7 @@
 
 # Hi there, I'm `Rooney` 👋
 
-### 正在把想法变成代码，也在把每一天变成进步。
+### I'm tring to change ideas into code and switching everyday into progress.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+profile!;Learning%2C+building%2C+and+sharing.;Stay+curious.+Keep+creating." alt="Typing SVG" />
 
