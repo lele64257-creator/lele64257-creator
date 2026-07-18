@@ -13,15 +13,14 @@
 
 ---
 
-##  关于我
+##  About me!
 
--  目前正在学习：`C 语言`
--  当前目标：打好编程基础，完成自己的第一个开源项目
--  感兴趣的方向：C 语言与计算机底层原理
+-  Current learning：`C `
+-  Goal：Practise coding. Try to make my first open sourse programme
 -  GitHub：[@lele64257-creator](https://github.com/lele64257-creator)
--  一句话介绍：保持好奇，持续创造
+-  Introduction:Practise makes perfect
 
-##  技术与工具
+##  Tools
 
 <!-- 删除不需要的徽章，或在 https://shields.io/ 添加你自己的技术栈。 -->
 
@@ -33,12 +32,11 @@
 
 </div>
 
-##  接下来要做
+##  What things I am going to do
 
-- [ ] 发布第一个 GitHub 项目
-- [ ] 坚持记录学习过程
-- [ ] 完善自己的技术栈
-- [ ] 参与一次开源协作
+- [ ] Relise my first programme 
+- [ ] insist record daily learning
+- [ ] Attend a open sourse programme
 
 ---
 
@@ -46,6 +44,6 @@
 
 ### Thanks for visiting! ✨
 
-<sub>这个主页会和我一起慢慢成长。</sub>
+<sub>This repository will develop with me</sub>
 
 </div>
